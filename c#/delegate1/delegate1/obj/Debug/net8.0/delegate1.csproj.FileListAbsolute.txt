@@ -1,0 +1,14 @@
+D:\mycode\c#\delegate1\delegate1\bin\Debug\net8.0\delegate1.exe
+D:\mycode\c#\delegate1\delegate1\bin\Debug\net8.0\delegate1.deps.json
+D:\mycode\c#\delegate1\delegate1\bin\Debug\net8.0\delegate1.runtimeconfig.json
+D:\mycode\c#\delegate1\delegate1\bin\Debug\net8.0\delegate1.dll
+D:\mycode\c#\delegate1\delegate1\bin\Debug\net8.0\delegate1.pdb
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.AssemblyInfoInputs.cache
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.AssemblyInfo.cs
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.csproj.CoreCompileInputs.cache
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.dll
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\refint\delegate1.dll
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.pdb
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\delegate1.genruntimeconfig.cache
+D:\mycode\c#\delegate1\delegate1\obj\Debug\net8.0\ref\delegate1.dll

@@ -1,0 +1,14 @@
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.AssemblyInfoInputs.cache
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.AssemblyInfo.cs
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.csproj.CoreCompileInputs.cache
+D:\mycode\c#\delegate2\delegate2\bin\Debug\net8.0\delegate2.exe
+D:\mycode\c#\delegate2\delegate2\bin\Debug\net8.0\delegate2.deps.json
+D:\mycode\c#\delegate2\delegate2\bin\Debug\net8.0\delegate2.runtimeconfig.json
+D:\mycode\c#\delegate2\delegate2\bin\Debug\net8.0\delegate2.dll
+D:\mycode\c#\delegate2\delegate2\bin\Debug\net8.0\delegate2.pdb
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.dll
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\refint\delegate2.dll
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.pdb
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\delegate2.genruntimeconfig.cache
+D:\mycode\c#\delegate2\delegate2\obj\Debug\net8.0\ref\delegate2.dll

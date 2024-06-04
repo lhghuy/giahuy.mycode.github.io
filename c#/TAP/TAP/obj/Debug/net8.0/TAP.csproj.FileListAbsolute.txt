@@ -1,0 +1,14 @@
+D:\mycode\c#\TAP\TAP\bin\Debug\net8.0\TAP.exe
+D:\mycode\c#\TAP\TAP\bin\Debug\net8.0\TAP.deps.json
+D:\mycode\c#\TAP\TAP\bin\Debug\net8.0\TAP.runtimeconfig.json
+D:\mycode\c#\TAP\TAP\bin\Debug\net8.0\TAP.dll
+D:\mycode\c#\TAP\TAP\bin\Debug\net8.0\TAP.pdb
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.AssemblyInfoInputs.cache
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.AssemblyInfo.cs
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.csproj.CoreCompileInputs.cache
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.dll
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\refint\TAP.dll
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.pdb
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\TAP.genruntimeconfig.cache
+D:\mycode\c#\TAP\TAP\obj\Debug\net8.0\ref\TAP.dll

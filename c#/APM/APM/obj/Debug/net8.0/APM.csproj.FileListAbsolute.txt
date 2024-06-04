@@ -1,0 +1,14 @@
+D:\mycode\c#\APM\APM\bin\Debug\net8.0\APM.exe
+D:\mycode\c#\APM\APM\bin\Debug\net8.0\APM.deps.json
+D:\mycode\c#\APM\APM\bin\Debug\net8.0\APM.runtimeconfig.json
+D:\mycode\c#\APM\APM\bin\Debug\net8.0\APM.dll
+D:\mycode\c#\APM\APM\bin\Debug\net8.0\APM.pdb
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.AssemblyInfoInputs.cache
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.AssemblyInfo.cs
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.csproj.CoreCompileInputs.cache
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.dll
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\refint\APM.dll
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.pdb
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\APM.genruntimeconfig.cache
+D:\mycode\c#\APM\APM\obj\Debug\net8.0\ref\APM.dll

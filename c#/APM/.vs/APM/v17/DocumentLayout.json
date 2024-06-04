@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mycode\\c#\\APM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE262E05-5A71-4FF0-A351-F8BEC6039654}|APM\\APM.csproj|d:\\mycode\\c#\\apm\\apm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE262E05-5A71-4FF0-A351-F8BEC6039654}|APM\\APM.csproj|solutionrelative:apm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mycode\\c#\\APM\\APM\\Program.cs",
+              "RelativeDocumentMoniker": "APM\\Program.cs",
+              "ToolTip": "D:\\mycode\\c#\\APM\\APM\\Program.cs",
+              "RelativeToolTip": "APM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:22:06.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

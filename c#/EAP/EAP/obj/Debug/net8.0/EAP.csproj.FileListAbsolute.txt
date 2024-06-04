@@ -1,0 +1,14 @@
+D:\mycode\c#\EAP\EAP\bin\Debug\net8.0\EAP.exe
+D:\mycode\c#\EAP\EAP\bin\Debug\net8.0\EAP.deps.json
+D:\mycode\c#\EAP\EAP\bin\Debug\net8.0\EAP.runtimeconfig.json
+D:\mycode\c#\EAP\EAP\bin\Debug\net8.0\EAP.dll
+D:\mycode\c#\EAP\EAP\bin\Debug\net8.0\EAP.pdb
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.AssemblyInfoInputs.cache
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.AssemblyInfo.cs
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.csproj.CoreCompileInputs.cache
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.dll
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\refint\EAP.dll
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.pdb
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\EAP.genruntimeconfig.cache
+D:\mycode\c#\EAP\EAP\obj\Debug\net8.0\ref\EAP.dll
